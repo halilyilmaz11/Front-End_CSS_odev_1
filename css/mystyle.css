@@ -1,33 +1,32 @@
 body {
-    background-color: #F7E6C4;
+    background-color: white;
     font-family: sans-serif;
 }
 
 header {
     text-align: center;
-    color: #7E1717;
+    color: #454545;
     font-size: 32px;
 }
 
 .lorem {
     text-align: center;
-    color: #263A29;
+    color: #9E6F21;
     font-size: 24px;
 }
 
 a {
-    color: #30A2FF;
+    color: #4942E4;
     font-size: 24px;
-
 }
 
 h3 { 
-    color: #263A29;
+    color: #9E6F21;
     font-size: 22px;
     text-align: center;
 }
 
 p {
     font-size: 18px;
-    
+    color: black;
 }
