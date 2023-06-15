@@ -1,8 +1,33 @@
-.ilkbaslık {
-    padding-left: 800px;
-    color: blue;
+body {
+    background-color: #F7E6C4;
+    font-family: sans-serif;
+}
+
+header {
+    text-align: center;
+    color: #7E1717;
+    font-size: 32px;
+}
+
+.lorem {
+    text-align: center;
+    color: #263A29;
+    font-size: 24px;
+}
+
+a {
+    color: #30A2FF;
+    font-size: 24px;
+
+}
+
+h3 { 
+    color: #263A29;
+    font-size: 22px;
+    text-align: center;
 }
 
 p {
-    color: blue;
+    font-size: 16px;
+    text-align: inherit;
 }
